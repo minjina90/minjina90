@@ -1,8 +1,8 @@
 ## Hi there! I'm Alvina Kwon 👋
 
-[![LinkedIn](https://img.shields.io/badge/whitelisab%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvina-kwon/)](https://www.linkedin.com/in/alvina-kwon/)
-[![GitHub](https://img.shields.io/badge/whitelisab%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/minjina90)](https://github.com/minjina90)
-[![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:minjina90@gmail.com)](mailto:minjina90@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/minjina90%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvina-kwon/)](https://www.linkedin.com/in/alvina-kwon/)
+[![GitHub](https://img.shields.io/badge/minjina90%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/minjina90)](https://github.com/minjina90)
+[![Gmail](https://img.shields.io/badge/minjina90%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:minjina90@gmail.com)](mailto:minjina90@gmail.com)
 
 - :round_pushpin: Based in Chicago, IL
 

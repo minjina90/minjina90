@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/minjina90%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/minjina90)](https://github.com/minjina90)
 [![Gmail](https://img.shields.io/badge/minjina90%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:minjina90@gmail.com)](mailto:minjina90@gmail.com)
 
-- :round_pushpin: Based in LA, CA
+- :round_pushpin: Based in Los Angeles, CA
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)

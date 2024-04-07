@@ -1,4 +1,4 @@
-## Hi there! I'm Alvina Kwon 👋
+## Hi there! I'm Alvina 👋
 
 [![LinkedIn](https://img.shields.io/badge/minjina90%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alvina-kwon/)](https://www.linkedin.com/in/alvina-kwon/)
 [![GitHub](https://img.shields.io/badge/minjina90%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/minjina90)](https://github.com/minjina90)
